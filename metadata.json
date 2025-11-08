@@ -1,0 +1,5 @@
+{
+  "name": "DocuMind Summarizer",
+  "description": "Upload medical papers and academic documents to get quick, intelligent summaries and ask follow-up questions using the power of Gemini.",
+  "requestFramePermissions": []
+}
